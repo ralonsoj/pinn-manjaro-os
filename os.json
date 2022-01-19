@@ -1,0 +1,18 @@
+{
+    "name":                     "manjaro-kde-rpi4",
+    "description":              "manjaro-kde-rpi4 20.04 for RPi4",
+    "release_date":             "2020-04-03",
+    "supported_models": [
+        "Pi 4 Model B Rev"
+    ],
+    "version":                  "20.04",
+    "kernel":                   "4.19.97-1",
+    "supports_usb_boot":        true,
+    "supports_usb_root":        true,
+    "supports_backup":          true,
+    "url":                      "http://manjaro.org",
+    "group":                    "General",
+    "username":                 "",
+    "password":                 "",
+    "sha512sum":                "6ec3c2be53baa2903670582a4a4d61c9c73343b04edce5e15602ff202c4499d2bb28202d78ea26a49f504fcb34c08f6b04d444ecab3ec3f455de6e904c6d57ab"
+}
