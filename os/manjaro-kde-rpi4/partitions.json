@@ -17,7 +17,7 @@
       "want_maximised": true,
       "uncompressed_tarball_size": 5564,
       "mkfs_options": "-O ^huge_file",
-      "sha512sum": "90fc6dd1f1ea792db873baae3d243b66e027d27157ffdfc5898230700e74eb890d3f06190b19c2eb8e18bd6d4c26e62269bb494a72cacce1e50ca008d5b8e494"
+      "sha512sum": "58096011b624eca41136847d73fb5d1520e1aeba669af23054b741070fbcbe345268e8ad857d55f4d9bc4998d4f28f9bec017db33fadb5e8ad72426be379d1b2"
     }
   ]
 }
