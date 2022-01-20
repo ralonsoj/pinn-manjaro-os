@@ -6,7 +6,7 @@
         "Pi 4"
     ],
     "version":                  "21.12",
-    "kernel":                   "5.15",
+    "kernel":                   "5.10.88-1",
     "supports_usb_boot":        true,
     "supports_usb_root":        true,
     "supports_backup":          true,
