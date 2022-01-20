@@ -17,8 +17,8 @@
             "marketing_info":  "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/marketing.tar",
             "partition_setup": "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/partition_setup.sh",
             "tarballs": [
-                               "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/boot.tar.xz",
-                               "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/root.tar.xz"
+                               "https://sourceforge.net/projects/pinn-manjaro-os/files/os/manjaro-kde-rpi4/boot.tar.xz",
+                               "https://sourceforge.net/projects/pinn-manjaro-os/files/os/manjaro-kde-rpi4/root.tar.xz"
             ],
             "nominal_size": 5007
         }
