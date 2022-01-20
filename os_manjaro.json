@@ -10,7 +10,7 @@
             "supports_usb_boot": false,
             "supports_usb_root": true,
             "group":           "General",
-            "download_size":    995280276,
+            "download_size":    1352791224,
             "os_info":         "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/os.json",
             "partitions_info": "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/partitions.json",
             "icon":            "https://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os/manjaro-kde-rpi4/manjaro-kde-rpi4.png",
