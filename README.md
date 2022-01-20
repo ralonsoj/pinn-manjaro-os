@@ -30,3 +30,7 @@ partition_size_nominal boot partition       -> uncompressed_tarball_size + 100
 
 uncompressed_tarball_size root partition    -> expr `cat root.size` / 1024 + 1
 partition_size_nominal root partition       -> uncompressed_tarball_size + 500
+
+sha512sum ./boot.tar.xz
+sha512sum ./root.tar.xz
+sha512sum ./partitions.sh
